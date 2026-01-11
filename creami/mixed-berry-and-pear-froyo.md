@@ -12,6 +12,12 @@
 - 1 g salt (tiny pinch, but important)
 - 50 g half and half
 
+## Nutrition (estimated)
+
+- **Per pint**: **450 kcal** — **Fat 9.9 g**, **Carbs 69.6 g**, **Protein 22.9 g**, **Fiber 6.7 g**, **Sugar 60.8 g**, **Sodium ~393 mg**
+- **Per 1/2 pint**: **225 kcal** — **Fat 5.0 g**, **Carbs 34.8 g**, **Protein 11.4 g**, **Fiber 3.4 g**, **Sugar 30.4 g**, **Sodium ~196 mg**
+- **Assumptions**: Greek yogurt modeled as plain **2%**; pear juice modeled as unsweetened pear juice; sodium only includes the added salt (yogurt will add more).
+
 ## Instructions
 
 1. Combine all ingredients and blend until smooth.

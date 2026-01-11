@@ -15,6 +15,13 @@
 
 **Tasting notes:** needs salt, gwen wants peanut butter
 
+## Nutrition (estimated)
+
+- **Per pint (base, no chips)**: **400 kcal** — **Fat 7.9 g**, **Carbs 60.6 g**, **Protein 23.1 g**, **Fiber 3.3 g**, **Sugar 47.4 g**
+- **Per 1/2 pint (base)**: **200 kcal** — **Fat 4.0 g**, **Carbs 30.3 g**, **Protein 11.6 g**, **Fiber 1.7 g**, **Sugar 23.7 g**
+- **If adding 25 g chocolate chips (per pint)**: **525 kcal** — **Fat 14.9 g**, **Carbs 77.1 g**, **Protein 24.3 g**, **Fiber 5.0 g**, **Sugar 60.9 g**
+- **Assumptions**: Greek yogurt modeled as plain **2%** (Fage-like); whole milk; honey as standard; chips modeled as semisweet/dark chips at ~500 kcal / 100 g.
+
 ## Instructions (Ninja Creami)
 
 1. **Blend**
