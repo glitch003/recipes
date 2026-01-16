@@ -11,6 +11,12 @@
 - 1 g salt (tiny pinch, but important)
 - Optional: 2–3 g vanilla extract (makes “chocolate” taste more chocolatey)
 
+## Nutrition (estimated)
+
+- **Per pint**: **~835 kcal** — **Fat ~44 g**, **Carbs ~65 g**, **Protein ~49 g**
+- **Per 1/2 pint**: **~418 kcal** — **Fat ~22 g**, **Carbs ~33 g**, **Protein ~24 g**
+- **Assumptions**: Milk modeled as **2%**; heavy cream modeled as standard heavy whipping cream; whey modeled as ~**80% protein** by weight; chocolate chips modeled similar to typical **60–63% dark chips** (brand varies a lot); xanthan/salt/vanilla treated as negligible calories.
+
 ## Instructions
 
 1. **Melt the chips smoothly**:
