@@ -44,3 +44,7 @@
 8. Mix scallions into cracker topping and scatter evenly over pasta.
 9. Bake uncovered for ~20 minutes, until golden and bubbling.
 10. Serve warm, garnished with extra scallions and black pepper if desired.
+
+# Tasting notes
+
+- The ritz crackers do a lot of work. I had it with chicken mixed in and it was very tasty.

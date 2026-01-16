@@ -25,3 +25,7 @@
 3. Freeze for 24 hours.
 4. Spin on the "Frozen Yogurt" setting.
 5. If powdery, add 15g Pear Juice and Re-spin.
+
+# Tasting notes
+
+- Not very flavorful. Bianca thinks it's too tart. I like it but it's just decent froyo. Prob too much pear. Maybe more berries instead but I ran out.
