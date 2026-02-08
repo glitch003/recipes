@@ -37,4 +37,4 @@
 
 # Tasting notes
 
-- TBD
+- Really delicious. Came out a little soupy - I did put a jar of boiling water on the top to remove the frozen hump. I also used the Creamifit setting. I think maybe we should try a different setting next time - creamifit runs for 6 mins. Def tastes like dark chocolate. Can't really tell it's protein ice cream.

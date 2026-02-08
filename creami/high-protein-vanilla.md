@@ -27,4 +27,4 @@
 
 # Tasting notes
 
-- TBD
+Just tastes like vanilla yogurt. Not great. Would not make again.
