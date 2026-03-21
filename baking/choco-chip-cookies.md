@@ -13,7 +13,7 @@
 - 5 g white vinegar or lemon juice (optional, helps the baking soda act more like baking powder)
 
 ## Nutrition (estimated)
-
+ 
 - **Per ~35 g cookie (about 1 cookie)**: **153 kcal** — **Fat 6.7 g**, **Carbs 22.3 g**, **Protein 1.7 g**, **Fiber 0.8 g**, **Sugar 14.4 g**, **Sodium ~58 mg**
 - **Per batch (~1.60 kg dough)**: **6,988 kcal** — **Fat 308.6 g**, **Carbs 1,021.1 g**, **Protein 76.7 g**, **Fiber 38.8 g**, **Sugar 661.1 g**, **Sodium ~2,672 mg**
 - **Assumptions**: panela counted as sugar; semisweet chips modeled at ~500 kcal / 100 g; cookie size assumed **35 g**; sodium only includes the added salt (salted butter + chips will add more).
