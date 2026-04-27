@@ -33,3 +33,7 @@ Version A of 2. Uses blended whole-milk ricotta as the protein base — richer m
 ## Tasting hypothesis
 
 Ricotta brings real fat (~28g from the 150g) plus a mild sweet-milky flavor that harmonizes with vanilla and Oreos — way more forgiving than Greek yogurt's tang. The HWC is still useful for mouthfeel but we dropped it to 30g since ricotta is already doing the fat work. Crushing 2 cookies into the base gives Oreo flavor throughout, not just in the chunks.
+
+# Tastimg notes
+
+- Very delicious. Bianca thinks it's too thick but I do like it. Gwen really liked it. I let it sit for like 10 mins out of the freezer before creami'ing and it was a little too soft after spinning so i would spin immediately after taking it out next time. The texture does have a gourmet feeling - the canolli adjacent description is legit.

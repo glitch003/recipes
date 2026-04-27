@@ -1,4 +1,4 @@
-# Strong Ginger Beer with *S. boulardii*
+# Strong Ginger Beer with _S. boulardii_
 
 Yield: ~1 liter
 Active time: ~20 minutes
@@ -9,7 +9,7 @@ Ferment time: 24–48 hours, plus optional 12–24 hours for bottle carbonation
 - 650 ml non-chlorinated water (filtered, spring, or distilled)
 - 150 g fresh ginger, divided (100 g grated for boiling, 50 g juiced for finishing)
 - 100 g sugar (coconut or white; bumped from 80 g for better carbonation)
-- 1 g *Saccharomyces boulardii* (~4 capsules / 20 billion CFU)
+- 1 g _Saccharomyces boulardii_ (~4 capsules / 20 billion CFU)
 - Juice of half a lemon (~30 ml) — keep it in, not optional
 - Optional, for bottle-conditioning: 1 tsp sugar per 500 ml bottle
 
@@ -36,7 +36,7 @@ Ferment time: 24–48 hours, plus optional 12–24 hours for bottle carbonation
 
 5. Juice the remaining 50 g ginger (grate and squeeze through a fine sieve or cheesecloth) and stir into the cooled liquid.
 
-6. Stir in the lemon juice. Open 4 capsules of *S. boulardii* and stir in the powder.
+6. Stir in the lemon juice. Open 4 capsules of _S. boulardii_ and stir in the powder.
 
 7. Pour into your fermentation jar. Cover loosely with a cloth and rubber band, or fit an airlock lid.
 
