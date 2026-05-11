@@ -9,7 +9,7 @@ Yield: ~8 large pretzels (~75 g each)
 - 7 g instant or active dry yeast (1 standard packet, ~2¼ tsp)
 - 12 g brown or granulated sugar (1 Tbsp)
 - 360 g warm water (~100°F / 38°C)
-- 14 g unsalted butter, melted and slightly cooled
+- 28 g unsalted butter, melted and slightly cooled
 - 6 g fine salt (~1 tsp)
 - 469–500 g all-purpose flour (spooned & leveled), plus more as needed
 - Coarse / pretzel salt, for topping
